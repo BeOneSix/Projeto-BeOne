@@ -1,7 +1,7 @@
 # BeOne: a rede social  de doações e caridade
 
 
-![Capa do Projeto](https://postimg.cc/kBSQnDbq)
+![Capa do Projeto](https://github.com/BeOneSix/ArquivosDiego/blob/main/716c6db2-7e7c-4a63-a215-a5ad43afc6b0.jpg)
 
 # Sobre o Projeto
 
