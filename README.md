@@ -54,4 +54,4 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
- 
+ Todo o grupo gostaria de agradecer aos professores Diego, Otaviano, Wesley e Severino por nos proporcionar tal conhecimento para que pudéssemos concluir o trabalho com êxito.
