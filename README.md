@@ -28,12 +28,12 @@ e direcionar as doações tanto para organizações quanto para pessoas necessit
 
 # Requisitos Funcionais 
 
-- [ ] Cadastrar Usuário
-- [ ] Fazer Login
-- [ ] Fazer doações
-- [ ] Receber doações
-- [ ] Visualizar doações feitas/recebidas
-- [ ] Visualizar e Atualizar Informações pessoais
+- [X] Cadastrar Usuário
+- [X] Fazer Login
+- [X] Fazer doações
+- [X] Receber doações
+- [X] Visualizar doações feitas/recebidas
+- [X] Solicitar perfil de ONG
 
 # Tecnologias Usadas
 
