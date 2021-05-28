@@ -28,15 +28,16 @@ e direcionar as doações tanto para organizações quanto para pessoas necessit
 
 # Requisitos Funcionais 
 
-- [X] Cadastrar Usuário
-- [X] Fazer Login
-- [X] Fazer doações
-- [X] Receber doações
-- [X] Visualizar doações feitas/recebidas
-- [X] Solicitar perfil de ONG
+- [x] **Cadastrar Usuário**
+- [x] **Fazer Login**
+- [x] **Fazer doações**
+- [x] **Receber doações**
+- [x] **Visualizar doações feitas/recebidas**
+- [x] **Solicitar perfil de ONG**
 
 # Tecnologias Usadas
 
+- [Flutter](https://flutter.dev/)
 
 
 # Contribuição
