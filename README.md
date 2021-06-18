@@ -38,6 +38,7 @@ e direcionar as doações tanto para organizações quanto para pessoas necessit
 # Tecnologias Usadas
 
 - [Flutter](https://flutter.dev/)
+- [Node,JS](https://nodejs.org/en/about/)
 
 
 # Contribuição
